@@ -8,5 +8,5 @@ npm install
 php artisan storage:link
 <br>
 <br>
-and import base
+php artisan migrate --seed
 </p>
