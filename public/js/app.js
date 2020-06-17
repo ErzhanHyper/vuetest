@@ -2043,7 +2043,7 @@ __webpack_require__.r(__webpack_exports__);
   props: ['photoData'],
   data: function data() {
     return {
-      defaultImage: auth.user.photo != null ? '/storage/user_photo/' + auth.user.photo : '/img/user.png',
+      defaultImage: auth.user.photo != '' ? '/storage/user_photo/' + auth.user.photo : '/img/user.png',
       photoTrans: {
         cropImage: 'Фото профиля',
         chooseImage: 'Загрузить фото',
