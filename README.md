@@ -8,5 +8,9 @@ npm install
 php artisan storage:link
 <br>
 <br>
-php artisan migrate --seed
+php artisan migrate --seed  
+<br>
+<br>
+  test@test.com
+  password
 </p>
