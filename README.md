@@ -12,5 +12,5 @@ php artisan migrate --seed
 <br>
 <br>
   test@test.com
-  password
+  | password
 </p>
